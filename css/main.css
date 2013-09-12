@@ -1,4 +1,5 @@
-p {
-  color:red;
-  text-align:center;
+body
+{
+    font-family:arial; /* Font */
+    font-size:12px; /* Font Size */
 }
